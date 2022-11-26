@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"Edificio\\[place].js -> ../../components/Flechas":{"id":"Edificio\\[place].js -> ../../components/Flechas","files":["static/chunks/components_Flechas_jsx.js"]}}
